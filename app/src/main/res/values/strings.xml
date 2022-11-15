@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">sampleproject</string>
+    <string name="SCH">スケジュール</string>
+    <string name="request">公認欠席申請</string>
+</resources>
