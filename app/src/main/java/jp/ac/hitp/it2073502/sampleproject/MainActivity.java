@@ -18,6 +18,6 @@ public class MainActivity extends AppCompatActivity {
         SCH.setOnClickListener ((View v)-> {
             startActivity(new Intent(this, SCH.class));
         });
-
+        //ばぁか
     }
 }
